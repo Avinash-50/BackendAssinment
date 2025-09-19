@@ -40,7 +40,7 @@ src/main/java/com/example/demo
 
 ## **APIs**
 
-### 1️⃣ Create Course
+### 1️ Create Course
 POST /course/create
 Body:
 {
@@ -52,12 +52,12 @@ Body:
 }
 
 
-### 2️⃣ Update Course
+### 2️ Update Course
 PUT /course/update/{id}
 Body: Updated course object
 
 
-### 3️⃣ Get Courses (Role-based)
+### 3️ Get Courses (Role-based)
 GET /course/get?role=student
 GET /course/get?role=teacher
 GET /course/get?role=developer
