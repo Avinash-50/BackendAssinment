@@ -1,7 +1,8 @@
 # Demo Spring Boot Project – Course Management API
 
 ## **Project Overview**
-Ye project ek simple **Course Management API** hai, jo Spring Boot aur H2 in-memory database ka use karta hai.  
+This project is a simple Course Management API that uses Spring Boot and an H2 in-memory database.
+The API provides role-based access.
 API **role-based access** provide karti hai:  
 
 - **Student**: Limited course details.  
@@ -72,6 +73,5 @@ Easy to extend for additional roles or APIs
 Uses H2 in-memory database for quick development/testing
 
 Author
-
 Avinash Gupta
 
